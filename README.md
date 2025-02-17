@@ -27,7 +27,9 @@ airbnb_project.twb
 airbnb_project_page_2.twb
 
 Direct Weblinks of Tableau dashboards: 
+
 Dashboard 1: https://public.tableau.com/app/profile/rishi.raj4887/viz/airbnbproject_17397750096940/Dashboard1?publish=yes
+
 Dashboard 2: https://public.tableau.com/app/profile/rishi.raj4887/viz/airbnbprojectpage2/Dashboard2?publish=yes
 
 How to Use
